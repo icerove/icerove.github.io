@@ -13,3 +13,4 @@ Learning Business Intelligence GuildBook
 3. BI turns data into "actionable" infomation
 4. Five fearure for data: clean, consistent, conformed, current and comprehensive
 5. data preparation: gather,reformat,consolidate & validate data, transform data, cleanse data and store data.
+6. with advances in data integration capabilities and productivity, enterprise BI environments can capture data near-time or even real-time if there is a business need.
