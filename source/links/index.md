@@ -15,5 +15,5 @@ lightningpi.com
 
 ### Projects
 Qly
-
+Stable Coin
 
