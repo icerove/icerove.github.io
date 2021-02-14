@@ -31,3 +31,16 @@ categories:
 5. lightning PI 和 google 继续扯皮
 6. 周四和Illia 交谈，要更多思考什么是没有被发现的，有用的信息
 7. 爸爸提点要有自己的计划，比如做出全公司分布图
+
+2021年2月13日：
+1. 宝宝的生日
+2. 规划了公司发展：
+    1. 网站归一方
+    2. 键盘 Qly 归博
+3. 做data scientist 是非常全面而繁杂的工作，但是也非常锻炼人，加油
+4. 人员分布图可能还没有时间启动
+5. explorer的stats方向也要努力完善
+6. 和product和devrel的bridge变成funnel
+7. 将scoreboardwanshan
+8. 和社区链接
+9. 和外部资源链接
