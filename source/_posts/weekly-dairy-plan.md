@@ -150,3 +150,10 @@ categories:
 2. 进入 5 月， 要尽快把琐事都处理好
 3. swipe 的 token 还没有要回来
 4. 手机换成 Google fi， 已经到了
+
+2021 年 5 月 9 日：
+
+1. artcoin 和 corgi 要继续
+2. 要把小说手机收起来
+3. 后院除草要命啊
+4. 做出一个类似 Dune Analytics 的软件
