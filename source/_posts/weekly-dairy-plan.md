@@ -157,3 +157,19 @@ categories:
 2. 要把小说手机收起来
 3. 后院除草要命啊
 4. 做出一个类似 Dune Analytics 的软件
+
+2021 年 5 月 16 日：
+
+1. corgis3d 正式登陆 near mainnet
+2. 规划 corgi 的未来发展路线和宣传，找到很多人开会
+3. 头一次知道 branding 是怎么做，流程很复杂
+4. 将 backend 中 database 差不多做好了
+5. artcoin 可能要做到 avalabs 上才能 decentralized
+
+2021 年 5 月 23 日：
+
+1. 这周中午吃饭和休息都是看动漫度过的， 有点看够了
+2. 这周约了很多 partner 做咨询 meeting，很有意思，也都支持我们的项目
+3. Erik 要来西雅图约见，可惜我们病了，不能见了
+4. 开始收拾东西
+5. property management 不是很顺利，下周必须解决此事
