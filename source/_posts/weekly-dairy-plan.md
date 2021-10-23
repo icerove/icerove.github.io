@@ -290,3 +290,29 @@ categories:
 2. 加入新的组，得到新的 manager
 3. 将 token 的 request 结束
 4. AlgoPulse 是付费公司，不过可以学到很多
+
+2021 年 10 月 3 日
+
+1. near parnerleadboard 要正式和 Mic 签合同做页面
+2. 整理了 near pulse 的数据形式和数据内容
+3. 完成 token unstaked or locked 和 lockup token
+4. Algorand 将和 AlgoPulse 进行谈话
+
+2021 年 10 月 10 日
+
+1. 放假
+2. Algorand 将投资 AlgoPulse， 是的我们的项目可以得到 AlgoPulse 的支持
+3. 首次面见 Jim，只是 say hello
+
+2021 年 10 月 17 日
+
+1. 生日快乐，变得更好
+2. Algo 和我们正式签约合同
+3. 和 Jim 终于开了会
+
+2021 年 10 月 24 日
+
+1. 离开 NEAR，全职做 CEO
+2. 即使之前没有做好思想和行动的准备，现在要用最快的速度完成转变
+3. 制定每日活动，每周计划，每周复盘和两周汇报
+4. 完成启动公司的琐事
