@@ -450,3 +450,19 @@ categories:
 4. NEAR还是把我的token拿走了，虽然有所损失，但是还是有好处，我们现在发展自由了
 5. 情况瞬息万变，自己却要坚定信念，无怪乎要有初心，并且时刻提醒自己
 6. 我的初心便是利他便是利己
+
+2021年2月20日：
+1. 2.20号讨论经济模型
+2. 2.19号给潘总和美子搬家，又打了麻将
+3. 和Algomint合作bridge，这会成为我们的一次投资和学习的机会
+4. NEAR竟然还没有bitcoin的bridge，哈哈哈，有一个好机会
+5. 做企业和项目就要足够的坚定，我差一点就没有资格做下去了，反思
+
+2022年2月27日：
+1. 完成和Algomint合作的proposal，同时通知foundation会做bridge
+2. 完成bitcoin bridge 对NEAR，还在和proximity labs商讨中
+3. Josh 又不理我一周，还是要找他问清楚情况
+4. Algopulse终于认真干活了一次，定下来artificials network的基调
+5. 新的网站就要完成了，design很不错，也又了新的logo
+6. Polygon下下周开会，争取将milestone都谈妥
+7. NEAR的最后一次工资竟然还没有谈妥，我真心无语
