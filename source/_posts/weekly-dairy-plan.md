@@ -474,3 +474,14 @@ categories:
 4. 网站基本完成
 5. 和老妈真心不能说太多
 6. 和Lion的谈话比较正常了，别卷我了，苦苦
+
+2022年3月13日：
+1. NEAR可能不想给我工资了。。。。。。告他
+2. 多做assumption，多写能不会让公司不得不让客户为公司买单的保护机制
+3. 从test net到main net要分级bounty，要有时间限制，多找到bug好，却不能让user只想拿reward，可以试试trade compaign
+4. 将已经在ecosystem里面的foundation的大使发展成自己的大使
+5. 雇佣最强的CMO
+6. 要使用trading bot对抗business DeFi attack
+7. unit test and integration test / melicious attack
+8. business's model to branding
+9. EVM 项目
