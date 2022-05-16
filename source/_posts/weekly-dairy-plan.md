@@ -520,3 +520,43 @@ categories:
 4. 等到zkp完成到一个阶段，我们可以联系avalanche了
 5. algopulse如果不能合作，那么我们就尽快跟他们拜拜，看看能不能和基金会说明情况
 6. 拿到钱和zkp完成后，我们自己的基金会建立提上日程
+
+2022年4月24日：
+1. 穿了汉服出门，非常nice
+2. 我们的bridge项目首要条件是拿到钱，所以会非常快推到test net，但是operation我觉得会有很多扯皮
+3. NEAR我们把Bo去掉，看看过程会不会正常
+4. polygon我们的项目还是很不错的，我会尽最大的努力去争取
+5. 等到新的MVP，去找avalanche
+6. Aleo再催一次
+7. algopulse给个one time payment，然后就不找他们干了。
+8. 和algorand 的foundation 谈给algopulse那笔钱的事情
+
+2022年5月1日：
+1. 收到了algorand foundation的首款
+2. 把zkp的milestone review demo 完成并提交
+3. 和algomint拿到frontend
+4. algopulse我要认真检查每一项内容，直到做出满意的pitch deck，我们再付钱
+5. 不鲁莽，不冲动，不自我，不极端，不妄言
+6. 嘴巴比脑子慢一点，再慢一点
+
+2022年5月8日：
+1. 母亲节，和妈妈转了一大圈
+2. 和爸爸明确表示了不满的地方
+3. Bo很纠结出行和车的问题，他变娇弱了，呵呵，吃不了苦，说我能拿两个28箱子的时候，呵呵哒
+4. Algorand竟然愿意给fiat，好foundation
+5. NEAR usn APY的算法简直了，但是市场反映十分不理想，先是大家拭目以待的大涨，之后是大跌。。。
+6. 我们还是要尽快做完bridge之后把stable coin 推出，NEAR的教训看来要么是市场在衰退，要么是它太烂，不过这个第一个的意义倒是没有用了
+7. Aleo的项目还蛮不错的，可以作为后续项目跟进
+8. 我的基础任务是财务筹划，公司管理，资产配置
+
+2022年5月15日：
+1. 坚持一个不是短期的项目：修行，早上半个小时
+2. 将生活捋顺，专注于自身
+3. 坚持完成日常的事项
+4. 经常复盘，不止于一周一次，如果遇到重大事件要及时复盘
+5. 币都在狂跌，投资不是只有好心态就能成功，要有规划和具体操作
+6. Algopulse byebye
+7. Algomint 谈合作
+8. bridge testnet review
+9. Artificix exchange step by step，做还是要做的，但是要稳健，不能激进
+10. Algorand / Polygon / Aleo / Avalanche / Polkadot / Solana / BSC 这些是我们的目标链，加油
