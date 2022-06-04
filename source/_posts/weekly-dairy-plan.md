@@ -560,3 +560,23 @@ categories:
 8. bridge testnet review
 9. Artificix exchange step by step，做还是要做的，但是要稳健，不能激进
 10. Algorand / Polygon / Aleo / Avalanche / Polkadot / Solana / BSC 这些是我们的目标链，加油
+
+
+2022年5月22日：
+1. 新世界来临，我已经真心祈愿，诚信祷告，并且会继续修行，反馈给许下的承诺
+2. bridge做的不算顺利
+3. 宝宝记下的东西比我多多了，真的不容易，要记这么多东西负担这么重，也不会太开心
+4. 要买车顺利，出门顺利，加油，我们可以的
+5. Aleo的申请我们已经做了，记得问问反馈
+6. polygon5月申请做过了，到6月和他扯一扯
+7. CELO要涨的话买一些
+8. ust和luna总会挣一个，我觉得应该是ust了
+9. Solana要检查一下
+10. Aurora终于要发给我了
+
+2022年5月29日：
+1. 车也终于定下来买什么了，大通D90pro，加油，我们可以
+2. polygon顺利联系了我们
+3. ust和luna的魔幻历史2022-05-26，我很期待它的发展
+4. Aurora我们最后有20万，耶耶耶
+5. bridge的milestone也算可以交了
